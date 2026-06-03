@@ -1,0 +1,2 @@
+This GitHub contains the source codes used for the work "Data-Driven Parameter Identification for Tumor Growth Models" (Liu, Liu, et. al.). This project applies Physics-Informed Neural Networks (PINNs) and Deep Operator Network （DeepOnet） to solve inverse problems arising in tumor growth modeling. The goal is to infer biologically meaningful parameters directly from observed tumor growth data while enforcing the underlying physical laws described by PDEs.
+The article is available on ArXiv: http://arxiv.org/abs/2511.15940
